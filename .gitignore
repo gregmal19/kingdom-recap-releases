@@ -1,0 +1,5 @@
+# Local staging for release assets; assets are uploaded to GitHub Releases,
+# never committed (a 100 MB installer does not belong in git history).
+staging-*/
+*.exe
+*.blockmap
